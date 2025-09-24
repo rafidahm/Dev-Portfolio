@@ -49,3 +49,48 @@
     padding: 18px 35px;
     border-radius: 5px;
   }
+
+
+  .banner {
+    display: flex;
+    margin-top: 47px;
+    margin-left: 226px;
+    align-items: center;
+  }
+ 
+  .greet {
+    color: #474747;
+    font-size: 45px;
+    font-weight: 600;
+    width: 177px;
+    height: 61px;
+  }
+  .name {
+    margin-top: 5px;
+    color: #181818;
+    font-size: 85px;
+    font-weight: 700;
+  }
+  .desc {
+    margin-top: 20px;
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    margin-right: 40px;
+  }
+  .profile-pic {
+    width: 584px;
+    height: 676px;
+    margin-right: 75px;
+  }
+  .about {
+    display: flex;
+    width: 1140px;
+    height: 550px;
+    border-radius: 10px;
+    background: #fff8f3;
+    margin: 130px 230px 131px 230px;
+    justify-content: center;
+    align-items: center;
+  }
